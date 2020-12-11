@@ -12,7 +12,7 @@
                         text-align: center;
                         padding: 14px 16px;
                         text-decoration: none;
-                        font-size: 17px;
+                        font-size: 30px;
                     }
                     /* Change the color of links on hover */
                     
@@ -35,6 +35,7 @@
                         margin: 0;
                         color: lightblue;
                         text-align: center;
+                      font-size: 22px;
                     }
                     
                     h1,
@@ -47,7 +48,7 @@
                     /* unvisited link */
                     
                     a:link {
-                        color: red;
+                        color: affc41;
                     }
                     /* visited link */
                     
