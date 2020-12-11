@@ -34,7 +34,7 @@
                         color: #e2a0ff;
                         text-align: center;
                       font-size: 22px;
-                      font-weight: bold;
+                      font-style: bold;
                     }
                     
                    h1,
@@ -43,7 +43,7 @@
                         font-family: "Times New Roman", Times, serif;
                         color: hotpink;
                         font-size: 30px;
-                        font-weight: bold;
+                        font-style: bold;
                     }
                     /*Pseudo-classes*/
                     /* unvisited link */
